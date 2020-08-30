@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Exposure Move Analysis for Credit Risk at Credit Suisse Pune
-- 🌱 I’m currently learning Deep Learning with Javascript
+- 🌱 I’m currently learning Explainable AI
 
 
 <!--
